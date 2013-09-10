@@ -1,4 +1,4 @@
-contact-form-7
-==============
+WordPress Contact Form 7
+========================
 
-Just another contact form plugin. Simple but flexible.
+Personal fork of the WordPress Plugin [Contact Form 7](http://wordpress.org/plugins/contact-form-7/developers/)
